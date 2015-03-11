@@ -3,6 +3,9 @@ As configurações padrões dos serviços do Db ORACLE XE são:
 - OracleJobSchedulerXE		Desativado
 - OracleMTSRecoveryService	Manual
 - OracleServiceXE -> 		Automático
+
+
+))))))
 - OracleXECIrAgent -> 		Manual
 - OracleXETNSListener -> 	Automático
 
